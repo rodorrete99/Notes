@@ -22,4 +22,3 @@ while(j<6){
 	}
 	document.write('while = ' + j, '<br>');
 }
-
